@@ -5,6 +5,6 @@ export const HeaderContainer = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 32px 24px;
+  padding: 36px 24px;
 `
 export const PictureStyled = styled.picture``
